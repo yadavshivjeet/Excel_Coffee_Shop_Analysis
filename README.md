@@ -13,3 +13,13 @@ Analyze sales records and build Dashboard for a coffee shop using Excel. Identif
 6.Which products are the best selling in terms of Quality and Revenue?  
 7.How do sales vary by Product Category and Size?  
 
+# 1.Data Structure:
+File type:Excel
+Table : 1
+Fields: 11
+Records:149,116
+Data span : Jan 2023-Jun 2023(6 months)
+
+# 2.Data Description 
+# Data Preparation
+In the data preperation step, the raw sales data from the coffee shop, including transaction records, product information will be collected and orgnized into a structured format suitable for analysis in Excel. This involves cleaning the data to remove any incosistencies, errors, or missing values,standardizing formats, and ensuring data integrity. Additionally, data is aggregated and tranformation as needed to facilitate analysis as calculating total sales, average order value, and average bill per person. Once cleaned and structured, the prepared data will serve as the foundation for building Dashboard. 
