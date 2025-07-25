@@ -6,10 +6,10 @@ Analyze sales records and build Dashboard for a coffee shop using Excel. Identif
 
 # Recommended analysis:
 1.How do sales vary by day of the week and hour of the day?  
+2.Are there any peak times for sales activity?  
+3.What is the total sales revenue for each month?  
+4.How do sales vary across different store location?  
+5.What is Average Price Per Order?  
+6.Which products are the best selling in terms of Quality and Revenue?  
+7.How do sales vary by Product Category and Size?  
 
-2.Are there any peak times for sales activity?
-3.What is the total sales revenue for each month?
-4.How do sales vary across different store location?
-5.What is Average Price Per Order?
-6.Which products are the best selling in terms of Quality and Revenue?
-7.How do sales vary by Product Category and Size?
