@@ -53,6 +53,8 @@ Crafted an engaging and dynamic dashboard tailored for coffee sales analysis. Th
 + Utilized pie charts and donut charts to illustrate the percntage distribution of sales based on product sizes and categories, providing a clear visual representation of the contribution of each size and category to overall sales.
 
 + Implemented column charts to display footfall and sales data for each store location,facilitating comparison of customer traffic and revenue generation across different stores.
+# Snapshot:
+
 
 # Insights:  
 
