@@ -43,6 +43,19 @@ Similarly, extracting the "hour of the day" from the "transaction_time" column e
 # Create Pivot Tables:
 Utilized pivot charts to swiftly summarize and analyze data, enabling the rapid identification of trends and patterns. And also by leveraging pivot charts,the process of constructing dynamics dashboards becomes seamless.
 
+# Dashboard overview:
+Crafted an engaging and dynamic dashboard tailored for coffee sales analysis. This interactive platform offers stackholders a userfriendly interface to explore key metrics trends, and insight effortlessly.
+
++ Utilized line charts to visualize sales trends over hours of the day, highlighting peak sales periods and identifying fluctuations in customer demand.
+
++ Employed horizontal bar charts to depict daily sales performance, enabiling easy comparision of sales figure across different days of the week.
+
++ Utilized pie charts and donut charts to illustrate the percntage distribution of sales based on product sizes and categories, providing a clear visual representation of the contribution of each size and category to overall sales.
+
++ Implemented column charts to display footfall and sales data for each store location,facilitating comparison of customer traffic and revenue generation across different stores.
+
+
+
 
 
 
