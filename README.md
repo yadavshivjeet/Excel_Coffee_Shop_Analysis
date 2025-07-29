@@ -54,6 +54,29 @@ Crafted an engaging and dynamic dashboard tailored for coffee sales analysis. Th
 
 + Implemented column charts to display footfall and sales data for each store location,facilitating comparison of customer traffic and revenue generation across different stores.
 
+# Insights:  
+
+# Busiest Days and Times:
+
++ The busiest hours for coffee sales are between 8:00 AM and 10:00 AM,indicating satrong demand during morning rush hours.
++ Mondays and Friday trend to have the highest sales volumes, indicating increased demands at the beginning and end of the workweek.
+
+# Percentage share based on Size:
+
++ Large-sized drinks dominate the sales representing the preferred choice among customers while Small-sized drinks are the least contributed.
+
+# Compareable Footfall Distribution:
+
++ All stores exhibit almost similar level of foot traffic throughout the months, indicating a balanced distribution of customers across different location. Simillar footfall levels present equal opportunities for sales and revenue generation across all stores.
+
+# Perecentage share based on Category:
+
++ Coffee and Tea Categories account for the largest perecentage share of sales of sales  which is about 67% with Coffee being the most contributed(39%).
+
+# Top Produncts
+
++ Barista Espresso emerges as the best selling product, reflecting a strong demand for coffee among customers followed by Brewed Chai Tea ranks as the second-hoghest selling product. 
+
 
 
 
