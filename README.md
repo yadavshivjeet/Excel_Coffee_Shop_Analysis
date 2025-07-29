@@ -54,7 +54,7 @@ Crafted an engaging and dynamic dashboard tailored for coffee sales analysis. Th
 
 + Implemented column charts to display footfall and sales data for each store location,facilitating comparison of customer traffic and revenue generation across different stores.
 # Snapshot:
-
+![Dashboard](https://github.com/yadavshivjeet/Excel_Coffee_Shop_Analysis/blob/main/Dashboard.png?raw=true)
 
 # Insights:  
 
