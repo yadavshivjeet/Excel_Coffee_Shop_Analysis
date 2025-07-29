@@ -14,11 +14,12 @@ Analyze sales records and build Dashboard for a coffee shop using Excel. Identif
 7.How do sales vary by Product Category and Size?  
 
 # 1.Data Structure:
-File type:Excel
+File type : Excel
 Table : 1
-Fields: 11
-Records:149,116
-Data span : Jan 2023-Jun 2023(6 months)
+FIELDS : 11
+Records : 149,116
+Data Span : Jan 2023 – Jun 2023(6 months)
+(Source : Maven Analytics)
 
 # 2.Data Description 
 # Data Preparation
@@ -26,4 +27,8 @@ In the data preperation step, the raw sales data from the coffee shop, including
 
 # Data Cleaning and Tranformation
 In Power query editor,
-Reviewing each column to get a good graps of data and understanding its context within the domain.
+Reviewing each column to get a good graps of data and understanding its context within the domain. This helps in recognizing errors, inconsistencies and important information related to coffee shop's operation. Abbrevations such as "Lg,""Rg",and "Sm" were used to represent the size of products in the "product_detail" column. But instead created a new column named "size" to provide a clear representation of product sizes.Sm>>Small, Rg>>Regular, Lg >>Large  
+
+*Leading and Trailing spaces were eliminated from all columns, enhancing the cleanliness and uniformity of the dataset  
+
+
