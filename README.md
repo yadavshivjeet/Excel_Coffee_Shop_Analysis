@@ -29,13 +29,13 @@ In the data preperation step, the raw sales data from the coffee shop, including
 In Power query editor,
 Reviewing each column to get a good graps of data and understanding its context within the domain. This helps in recognizing errors, inconsistencies and important information related to coffee shop's operation. Abbrevations such as "Lg,""Rg",and "Sm" were used to represent the size of products in the "product_detail" column. But instead created a new column named "size" to provide a clear representation of product sizes.Sm>>Small, Rg>>Regular, Lg >>Large  
 
-+Leading and Trailing spaces were eliminated from all columns, enhancing the cleanliness and uniformity of the dataset   
+* Leading and Trailing spaces were eliminated from all columns, enhancing the cleanliness and uniformity of the dataset   
 
-+The "transaction_time" column underwent a refinement process where date values were removed, leaving only the time in HH:MM:SS format  
+* The "transaction_time" column underwent a refinement process where date values were removed, leaving only the time in HH:MM:SS format  
 
-+A new custom column named "Total_bill" was created by multiplying the "unit_price" and "transaction_qty" for each entry. This addition provides a comprehencive overview of the total sales generated fro each transaction.
+* A new custom column named "Total_bill" was created by multiplying the "unit_price" and "transaction_qty" for each entry. This addition provides a comprehencive overview of the total sales generated fro each transaction.
 
-+Extracting the "day of the week" and "month name" from the "transaction_date" column allows for a detailed analysis of how sales fluctuate across diffrent days and months.
+* Extracting the "day of the week" and "month name" from the "transaction_date" column allows for a detailed analysis of how sales fluctuate across diffrent days and months.
 Similarly, extracting the "hour of the day" from the "transaction_time" column enables the identification of peak sales hours.  
 
 # Create Pivot Tables:
